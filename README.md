@@ -1,1 +1,11 @@
-# Codetech-task-1
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: ESSARAPU RAMYA
+
+INTERN ID:
+
+DOMAIN: Embedded Systems
+
+DURATION: 4 WEEKS
+
+MENTOR: Neela Santhosh Kumar
